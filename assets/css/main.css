@@ -3112,6 +3112,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a9e4f7', end
 		#header p {
 			font-size: 2em;
 			letter-spacing: -0.025em;
+			font-family: 'Amatic SC', cursive;
+			color: whitesmoke;
+
 		}
 
 		#header.alt {
